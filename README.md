@@ -1,8 +1,8 @@
-hi! my name is bruno sj and I am a freelance [web designer/developer](https://www.landozone.net/) based in Berlin. I enjoy working on creative projects where I can bring my expertise to develop cool stuff on the web.
+hi! my name is bruno sj and I am a freelance [web developer/designer](https://www.landozone.net/) based in Berlin. I enjoy working on creative projects where I can bring my expertise to develop useful stuff on the web.
 
 The various repositories on this profile highlight some of my projects and work experiences. My tools of choice are JavaScript/TypeScript frameworks such as SvelteKit and Next.js. I'm also particularly interested in creating engaging and interactive data visualizations, which allows me to merge my previous work experience in the climate policy field with my dev skills.
 
-If you want to get in touch, feel free to reach me via email at [mail@brunosj.com](mailto:mail@brunosj.com).
+If you want to get in touch, feel free to reach me via email at [contact@landozone.net](mailto:contact@landozone.net).
 
 <!--
 **brunosj/brunosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
